@@ -7,7 +7,7 @@ export default function Landing() {
     <div className='landing'>
         <p className='landing-links'>
           <a href='https://github.com/nilestoomer'>Github</a> |
-          <a href='www.linkedin.com/in/niles-toomer'> LinkedIn</a> |
+          <a href='https://www.linkedin.com/in/niles-toomer'> LinkedIn</a> |
           About Me
         </p>
         <h1 className="landing-name">Welcome to my Portfolio</h1>

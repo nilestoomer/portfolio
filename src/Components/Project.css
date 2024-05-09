@@ -1,0 +1,14 @@
+.media-element {
+    padding: 1rem;
+    border-radius: 2rem;
+    background: 1rem;
+    background-color: rgb(3, 70, 148);
+
+    box-shadow: 3px 3px rgb(238, 36, 44), -1em 0 .4em rgb(219, 161, 17);
+}
+
+img {
+    inline-size: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+}
